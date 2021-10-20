@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyFinances", "MyFinances\MyFinances.vcxproj", "{2804C258-77D3-4FED-9975-9BB502136B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2804C258-77D3-4FED-9975-9BB502136B08}.Debug|x64.ActiveCfg = Debug|x64
+		{2804C258-77D3-4FED-9975-9BB502136B08}.Debug|x64.Build.0 = Debug|x64
+		{2804C258-77D3-4FED-9975-9BB502136B08}.Debug|x86.ActiveCfg = Debug|Win32
+		{2804C258-77D3-4FED-9975-9BB502136B08}.Debug|x86.Build.0 = Debug|Win32
+		{2804C258-77D3-4FED-9975-9BB502136B08}.Release|x64.ActiveCfg = Release|x64
+		{2804C258-77D3-4FED-9975-9BB502136B08}.Release|x64.Build.0 = Release|x64
+		{2804C258-77D3-4FED-9975-9BB502136B08}.Release|x86.ActiveCfg = Release|Win32
+		{2804C258-77D3-4FED-9975-9BB502136B08}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC551919-59A3-4A0C-B3C6-528EB9DE6351}
+	EndGlobalSection
+EndGlobal

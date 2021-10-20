@@ -1,0 +1,4 @@
+﻿  EventManagerClass.cpp
+n:\year1\myfinances\myfinances\eventmanagerclass.cpp(678): warning C4018: '<': signed/unsigned mismatch
+n:\year1\myfinances\myfinances\eventmanagerclass.cpp(680): warning C4018: '<': signed/unsigned mismatch
+  MyFinances.vcxproj -> N:\YEAR1\MyFinances\Debug\MyFinances.exe
